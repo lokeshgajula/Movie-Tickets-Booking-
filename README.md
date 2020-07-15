@@ -1,7 +1,10 @@
 # Movie-Tickets-Booking-
- a programatic implementation of movie reservation using c.
+*** this project is solely made as a personal implementation of the problem statement and as a reference to other. This is not ment to be plagiarized.***
+a programatic implementation of movie reservation using c.
 problem statement:
 developing an application following funcionalities.
+
+
 1)Add a screen
 Ability to register a screen
 a.screen name
@@ -50,3 +53,5 @@ suggest-contiguous-seats <screen-name> <number-of-seats> <row-number> <choice-of
  2 3 4
  if no seat combination exists
  none
+ 
+ NOTE: in the code if the array size if less than the test case input there will be some errors. so if you have high no of test cases then you should change the arrays size in the code.
